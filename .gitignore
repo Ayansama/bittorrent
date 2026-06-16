@@ -1,0 +1,5 @@
+*.iso
+*.torrent
+*.exe
+bittorrent
+.resume/
