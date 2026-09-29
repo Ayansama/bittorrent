@@ -2,7 +2,7 @@
 
 > ⚠️ **Work in Progress** — core download pipeline is complete and verified. Several features are still being built.
 
-A BitTorrent client built from scratch in Go, with no external BitTorrent libraries. Every component — from bencode parsing to DHT peer discovery — is implemented by hand for deep understanding of how the protocol works.
+A BitTorrent client built from scratch in Go, with no external BitTorrent libraries. Every component from bencode parsing to DHT peer discovery is implemented by hand for deep understanding of how the protocol works.
 
 ---
 
